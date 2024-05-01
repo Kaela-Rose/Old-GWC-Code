@@ -1,0 +1,49 @@
+/* STYLE SECTIONING TAGS */
+body { 
+  background-color:papayawhip;
+  text-align: center;
+  
+}
+
+/* STYLE TEXT */
+
+h1 { text-align: center; 
+text-decoration: underline ;
+font-family: "Lucida Handwriting", cursive
+  
+}
+h1 {
+  color:#000000;
+  
+}
+
+.home {
+  font-size: 15px;
+}
+
+/* STYLE IMAGES */
+.round{
+border-radius: 50%
+}
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: wheat;
+  overflow: hidden;
+  padding: lem;
+}
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: lightgray;
+}
